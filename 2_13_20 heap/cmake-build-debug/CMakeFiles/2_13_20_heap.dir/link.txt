@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/2_13_20_heap.dir/chrome.cpp.o  -o 2_13_20_heap.exe -Wl,--out-implib,lib2_13_20_heap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

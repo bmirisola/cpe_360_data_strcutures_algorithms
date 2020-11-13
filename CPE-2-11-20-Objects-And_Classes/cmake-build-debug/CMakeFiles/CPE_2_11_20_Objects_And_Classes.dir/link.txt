@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CPE_2_11_20_Objects_And_Classes.dir/AmazonItem.cpp.o  -o CPE_2_11_20_Objects_And_Classes.exe -Wl,--out-implib,libCPE_2_11_20_Objects_And_Classes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

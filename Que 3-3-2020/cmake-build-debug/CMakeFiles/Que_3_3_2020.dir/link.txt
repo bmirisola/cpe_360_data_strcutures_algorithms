@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Que_3_3_2020.dir/main.cpp.o  -o Que_3_3_2020.exe -Wl,--out-implib,libQue_3_3_2020.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Midterm_Part_2_LinkedList.dir/main.cpp.o  -o Midterm_Part_2_LinkedList.exe -Wl,--out-implib,libMidterm_Part_2_LinkedList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

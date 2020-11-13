@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/2_27_2020_Structures.dir/stack.cpp.o  -o 2_27_2020_Structures.exe -Wl,--out-implib,lib2_27_2020_Structures.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
